@@ -4,9 +4,11 @@
 
 ## ⬇️ Скачать
 
-- **Приложение для Windows (x64):** [Baranus-Chaos-1.6.2.exe](https://github.com/jangofett158-ops/baranus-chaos-download/releases/download/v1.6.2/Baranus-Chaos-1.6.2.exe)
-- **Мод для Minecraft 1.20.1 (Forge):** [baranus-chaos-forge-1.5.4.jar](https://github.com/jangofett158-ops/baranus-chaos-download/releases/download/v1.6.2/baranus-chaos-forge-1.5.4.jar)
-- **Мобы для ивентов (Forge):** [chaosmobs-1.0.0.jar](https://github.com/jangofett158-ops/baranus-chaos-download/releases/download/v1.6.2/chaosmobs-1.0.0.jar)
+- **Приложение для Windows (x64):** [Baranus-Chaos-1.7.5.exe](https://github.com/jangofett158-ops/baranus-chaos-download/releases/download/v1.7.5/Baranus-Chaos-1.7.5.exe)
+- **Мод для Minecraft 1.20.1 (Forge):** [baranus-chaos-forge-1.5.7.jar](https://github.com/jangofett158-ops/baranus-chaos-download/releases/download/v1.7.5/baranus-chaos-forge-1.5.7.jar)
+- **Мобы для ивентов (Forge):** [chaosmobs-1.0.0.jar](https://github.com/jangofett158-ops/baranus-chaos-download/releases/download/v1.7.5/chaosmobs-1.0.0.jar)
+- **Настройки ивентов:** [baranus-ivents-2026-10-23.json](https://github.com/jangofett158-ops/baranus-chaos-download/releases/download/v1.7.5/baranus-ivents-2026-10-23.json)
+- **Сборка модов:** [baranus-modpack-1.7.5.rar](https://github.com/jangofett158-ops/baranus-chaos-download/releases/download/v1.7.5/baranus-modpack-1.7.5.rar)
 
 Все версии — на странице [Releases](https://github.com/jangofett158-ops/baranus-chaos-download/releases). Архивы «Source code (zip / tar.gz)» там — это исходный код, для игры они не нужны: скачивайте `.exe` и `.jar` из блока **Assets**.
 
@@ -14,8 +16,8 @@
 
 ## Установка
 
-1. Положите `baranus-chaos-forge-1.5.4.jar` и `chaosmobs-1.0.0.jar` в папку `mods` своего Minecraft (и сервера, если играете на сервере). Нужны Minecraft 1.20.1, Forge 47.4.10+ и Java 17. Те же моды нужны всем, кто заходит в ваш мир, - в том числе другу, который не стримит: ему достаточно модов, приложение не нужно.
-2. Запустите `Baranus-Chaos-1.6.2.exe`
+1. Положите `baranus-chaos-forge-1.5.7.jar` и `chaosmobs-1.0.0.jar` в папку `mods` своего Minecraft (и сервера, если играете на сервере). Нужны Minecraft 1.20.1, Forge 47.4.10+ и Java 17. Те же моды нужны всем, кто заходит в ваш мир, - в том числе другу, который не стримит: ему достаточно модов, приложение не нужно.
+2. Запустите `Baranus-Chaos-1.7.5.exe`
 
 ## Подключение
 
